@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[22016,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],""]
+3:Tda8,<h2 id="1-purpose">1. Purpose</h2>
+<p>This policy sets out how Mustard Seed Ltd handles complaints from clients, portfolio companies, and other stakeholders. It ensures that complaints are dealt with fairly, promptly, and transparently.</p>
+<h2 id="2-scope">2. Scope</h2>
+<p>This policy applies to any complaint received about Mustard Seed's services, personnel, or conduct. It covers complaints from portfolio companies, fee-paying clients, and any other third party.</p>
+<h2 id="3-what-is-a-complaint">3. What is a Complaint</h2>
+<p>A complaint is any expression of dissatisfaction, whether made orally or in writing, about the standard of service, actions, or lack of actions by Mustard Seed or its personnel.</p>
+<h2 id="4-how-to-make-a-complaint">4. How to Make a Complaint</h2>
+<p>Complaints can be made by:</p>
+<ul class="bullets">
+<li>Email to <a href="mailto:virgilioalmeida2005@gmail.com">virgilioalmeida2005@gmail.com</a></li>
+<li>Letter to Mustard Seed Ltd, <span class="ph">[Registered Address]</span></li>
+<li>In person to any Mustard Seed consultant or the Managing Director</li>
+</ul>
+<p>Where possible, complaints should be made in writing and include the complainant's name, contact details, a description of the issue, and the desired outcome.</p>
+<h2 id="5-acknowledgement">5. Acknowledgement</h2>
+<p>All complaints will be acknowledged within 3 Business Days of receipt. The acknowledgement will confirm who is handling the complaint and the expected timeline for resolution.</p>
+<h2 id="6-investigation">6. Investigation</h2>
+<p>The Managing Director (or a nominated person who is not the subject of the complaint) will investigate the complaint. The investigation will:</p>
+<ul class="bullets">
+<li>Review all relevant facts and documents</li>
+<li>Speak to the people involved</li>
+<li>Consider whether the complaint is justified, partially justified, or not justified</li>
+</ul>
+<p>The investigation will be completed within 15 Business Days of the complaint being acknowledged. If more time is needed, the complainant will be informed of the reason for the delay and the revised timeline.</p>
+<h2 id="7-response">7. Response</h2>
+<p>The complainant will receive a written response setting out:</p>
+<ul class="bullets">
+<li>A summary of the complaint</li>
+<li>The findings of the investigation</li>
+<li>Any remedial action Mustard Seed will take</li>
+<li>The complainant's right to escalate if dissatisfied</li>
+</ul>
+<h2 id="8-escalation">8. Escalation</h2>
+<p>If the complainant is not satisfied with the response, they may escalate the complaint to the Managing Director (if not already involved) within 10 Business Days.</p>
+<p>If the complaint remains unresolved after internal escalation, the complainant may refer the matter to mediation under the CEDR Model Mediation Procedure, in accordance with the dispute resolution provisions in the relevant service agreement.</p>
+<h2 id="9-records">9. Records</h2>
+<p>All complaints, investigations, and outcomes are recorded in the Complaints Register. The register is reviewed quarterly to identify patterns and areas for improvement.</p>
+<h2 id="10-learning-from-complaints">10. Learning from Complaints</h2>
+<p>Mustard Seed views complaints as an opportunity to improve. Where a complaint identifies a genuine shortcoming, the Managing Director will implement corrective action and update relevant policies or procedures as necessary.</p>
+<h2 id="11-review">11. Review</h2>
+<p>This policy will be reviewed annually.</p>6:X
+b:X
+b:C
+0:{"buildId":"90RKt30gVz2qCReEbd8e_","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"container page-hero-inner","children":["$undefined",["$","p",null,{"className":"eyebrow","children":"Mustard Seed Ltd · Documents"}],["$","h1",null,{"children":"Complaints Handling Policy"}],"$undefined",["$","ul",null,{"className":"doc-meta","children":[["$","li","Effective from: <span class=\"ph\">[Date]</span>",{"dangerouslySetInnerHTML":{"__html":"Effective from: <span class=\"ph\">[Date]</span>"}}],["$","li","Version 1.0",{"dangerouslySetInnerHTML":{"__html":"Version 1.0"}}],["$","li","Policy Owner: Managing Director",{"dangerouslySetInnerHTML":{"__html":"Policy Owner: Managing Director"}}],["$","li","Approved By: <span class=\"ph\">[Founder Name]</span>",{"dangerouslySetInnerHTML":{"__html":"Approved By: <span class=\"ph\">[Founder Name]</span>"}}],["$","li","Next Review Date: <span class=\"ph\">[Date + 12 months]</span>",{"dangerouslySetInnerHTML":{"__html":"Next Review Date: <span class=\"ph\">[Date + 12 months]</span>"}}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container doc-layout","children":[["$","aside",null,{"className":"doc-toc","children":[["$","p",null,{"className":"eyebrow","children":"On this page"}],["$","nav",null,{"children":[["$","a","1-purpose",{"href":"#1-purpose","children":"Purpose"}],["$","a","2-scope",{"href":"#2-scope","children":"Scope"}],["$","a","3-what-is-a-complaint",{"href":"#3-what-is-a-complaint","children":"What is a Complaint"}],["$","a","4-how-to-make-a-complaint",{"href":"#4-how-to-make-a-complaint","children":"How to Make a Complaint"}],["$","a","5-acknowledgement",{"href":"#5-acknowledgement","children":"Acknowledgement"}],["$","a","6-investigation",{"href":"#6-investigation","children":"Investigation"}],["$","a","7-response",{"href":"#7-response","children":"Response"}],["$","a","8-escalation",{"href":"#8-escalation","children":"Escalation"}],["$","a","9-records",{"href":"#9-records","children":"Records"}],["$","a","10-learning-from-complaints",{"href":"#10-learning-from-complaints","children":"Learning from Complaints"}],["$","a","11-review",{"href":"#11-review","children":"Review"}]]}],["$","$L2",null,{"href":"/documents","className":"text-link","children":[["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M20 12H5M10.5 6.5L5 12l5.5 5.5\"/>"}}]," All documents"]}]]}],["$","article",null,{"className":"doc-body","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}]],null,"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$6","varyParams":"$b"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"ViewportBoundary"]
+16:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"MetadataBoundary"]
+17:I[27201,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"IconMark"]
+18:I[39756,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+19:I[37457,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+1a:I[70119,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+:HL["/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","style"]
+4:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+7:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Complaints Handling Policy | Mustard Seed"}],["$","meta","1",{"name":"description","content":"Mustard Seed is a faith-driven business incubator. We work inside small businesses and help them grow, with equity rather than debt."}],["$","link","2",{"rel":"icon","href":"/mustard-seed-website/icon.png?icon.0-duoakl2-znd.png","sizes":"200x200","type":"image/png"}],["$","$L17","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+c:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","precedence":"next"}],["$","script","script-0",{"src":"/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","async":true}],["$","script","script-1",{"src":"/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"questrial_5ffb7e21-module__U9s6Na__variable dm_sans_8b51dcaf-module__cCpH7W__variable cormorant_garamond_97c6c07d-module__b6pBUG__variable","children":["$","body",null,{"id":"top","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L1a",null,{}],["$","main",null,{"id":"main","children":["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}],"notFound":[["$","section",null,{"className":"page-hero not-found","children":["$","div",null,{"className":"container page-hero-inner","children":[["$","div",null,{"className":"page-hero-icon","children":["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M3 19.5h18\"/><ellipse class=\"ac\" cx=\"12\" cy=\"13.8\" rx=\"5.6\" ry=\"4.6\"/><path d=\"M9.2 12.6a3 3 0 0 1 2.6-2\"/>"}}]}],["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":"This seed hasn't sprouted yet."}],["$","p",null,{"className":"page-hero-intro","children":"The page you're looking for doesn't exist or has moved."}],["$","div",null,{"className":"hero-actions","children":[["$","$L2",null,{"href":"/","className":"btn btn-gold","children":["Back to home ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}],["$","$L2",null,{"href":"/services","className":"text-link light","children":["Our services ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}]]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"container footer-main","children":[["$","div",null,{"className":"footer-left","children":[["$","$L2",null,{"href":"/","className":"footer-brand","children":["Mustard Seed",["$","span",null,{"children":"."}]]}],["$","p",null,{"className":"footer-tag","children":"Counselling & Business Incubator"}],["$","p",null,{"className":"footer-big","children":["Grow your",["$","br",null,{}],"business"]}],["$","$L2",null,{"href":"/contact","className":"footer-contact","children":"Contact"}]]}],["$","div",null,{"className":"footer-divider","aria-hidden":true}],["$","div",null,{"className":"footer-right","children":[["$","h2",null,{"children":"Info"}],["$","p",null,{"children":"Email us:"}],["$","p",null,{"children":["$","a",null,{"href":"mailto:virgilioalmeida2005@gmail.com","children":"virgilioalmeida2005@gmail.com"}]}],null,["$","h2",null,{"children":"Address"}],[["$","p","Mustard Seed Ltd",{"children":"Mustard Seed Ltd"}],["$","p","United Kingdom",{"children":"United Kingdom"}]]]}],["$","a",null,{"href":"#top","className":"back-to-top","aria-label":"Back to top","children":["$","svg",null,{"viewBox":"0 0 52 76","aria-hidden":true,"children":["$","path",null,{"d":"M26 74V3M4 25L26 3l22 22"}]}]}]]}],["$","div",null,{"className":"footer-legal","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"legal-copy","children":["© ",2026," ","Mustard Seed Ltd",". All rights reserved.",null]}],["$","ul",null,{"className":"legal-links","children":[["$","li","privacy-policy",{"children":["$","$L2",null,{"href":"/documents/privacy-policy","children":"Privacy Policy"}]}],["$","li","cookie-policy",{"children":["$","$L2",null,{"href":"/documents/cookie-policy","children":"Cookie Policy"}]}],["$","li","terms-of-use",{"children":["$","$L2",null,{"href":"/documents/terms-of-use","children":"Terms of Use"}]}],["$","li","terms-of-business",{"children":["$","$L2",null,{"href":"/documents/terms-of-business","children":"Terms of Business"}]}],["$","li","payment-terms",{"children":["$","$L2",null,{"href":"/documents/payment-terms","children":"Payment Terms"}]}],["$","li","anti-bribery-policy",{"children":["$","$L2",null,{"href":"/documents/anti-bribery-policy","children":"Anti-Bribery Policy"}]}],["$","li","complaints-policy",{"children":["$","$L2",null,{"href":"/documents/complaints-policy","children":"Complaints Policy"}]}],["$","li","conflicts-of-interest-policy",{"children":["$","$L2",null,{"href":"/documents/conflicts-of-interest-policy","children":"Conflicts of Interest"}]}],"$L1b","$L1c","$L1d","$L1e"]}]]}]}]]}]]}]}]]}]
+14:null
+1b:["$","li","data-protection-policy",{"children":["$","$L2",null,{"href":"/documents/data-protection-policy","children":"Data Protection"}]}]
+1c:["$","li","equal-opportunities-policy",{"children":["$","$L2",null,{"href":"/documents/equal-opportunities-policy","children":"Equal Opportunities"}]}]
+1d:["$","li","health-and-safety-policy",{"children":["$","$L2",null,{"href":"/documents/health-and-safety-policy","children":"Health & Safety"}]}]
+1e:["$","li","information-security-policy",{"children":["$","$L2",null,{"href":"/documents/information-security-policy","children":"Information Security"}]}]
+11:true
+6:300
+6:C
+10:0
+8:"$undefined"
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"

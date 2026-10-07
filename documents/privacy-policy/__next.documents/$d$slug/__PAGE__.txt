@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[22016,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],""]
+3:T1b2e,<h2 id="1-introduction">1. Introduction</h2>
+<p class="clause"><span class="n">1.1</span><span>This Website Privacy Policy explains how Mustard Seed Ltd ("we", "us", "our") collects, uses, and protects personal data when you visit our website at <span class="ph">[website URL]</span> (the "Website").</span></p>
+<p class="clause"><span class="n">1.2</span><span>This policy applies specifically to data collected through the Website. Our general Privacy Policy (available upon request) covers how we handle personal data in our broader business operations.</span></p>
+<p class="clause"><span class="n">1.3</span><span>Mustard Seed Ltd is the data controller. Our contact details are:</span></p>
+<p>Company: Mustard Seed Ltd</p>
+<p>Company number: <span class="ph">[TBC]</span></p>
+<p>Address: <span class="ph">[Registered Address]</span></p>
+<p>Email: <a href="mailto:virgilioalmeida2005@gmail.com">virgilioalmeida2005@gmail.com</a></p>
+<h2 id="2-what-data-we-collect">2. What Data We Collect</h2>
+<p class="clause"><span class="n">2.1</span><span>When you visit the Website, we may collect:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>Technical data: IP address, browser type and version, operating system, device type, screen resolution, time zone setting, and pages visited.</span></li>
+<li><span class="n">(b)</span><span>Contact form data: If you submit a contact form or enquiry, we collect your name, email address, phone number (if provided), company name (if provided), and the content of your message.</span></li>
+<li><span class="n">(c)</span><span>Newsletter data: If you subscribe to our newsletter, we collect your email address and name.</span></li>
+<li><span class="n">(d)</span><span>Cookie data: As described in our Cookie Policy.</span></li>
+</ul>
+<h2 id="3-how-we-use-your-data">3. How We Use Your Data</h2>
+<p class="clause"><span class="n">3.1</span><span>We use your data for the following purposes:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>to operate and improve the Website (legitimate interests);</span></li>
+<li><span class="n">(b)</span><span>to respond to your enquiries (contract/pre-contract);</span></li>
+<li><span class="n">(c)</span><span>to send you marketing communications if you have opted in (consent);</span></li>
+<li><span class="n">(d)</span><span>to analyse Website usage and improve user experience (legitimate interests); and</span></li>
+<li><span class="n">(e)</span><span>to comply with legal obligations (legal obligation).</span></li>
+</ul>
+<h2 id="4-lawful-basis">4. Lawful Basis</h2>
+<p class="clause"><span class="n">4.1</span><span>We process your data on the following lawful bases under Article 6 of the UK GDPR:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>Legitimate interests: Website analytics, security, and improvement.</span></li>
+<li><span class="n">(b)</span><span>Contract / pre-contract: Responding to enquiries about our services.</span></li>
+<li><span class="n">(c)</span><span>Consent: Marketing communications and non-essential cookies.</span></li>
+<li><span class="n">(d)</span><span>Legal obligation: Where required by law.</span></li>
+</ul>
+<h2 id="5-sharing-your-data">5. Sharing Your Data</h2>
+<p class="clause"><span class="n">5.1</span><span>We may share your data with:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>our website hosting provider;</span></li>
+<li><span class="n">(b)</span><span>Google Analytics (for website analytics);</span></li>
+<li><span class="n">(c)</span><span>our email service provider (for newsletter communications); and</span></li>
+<li><span class="n">(d)</span><span>professional advisers where required.</span></li>
+</ul>
+<p class="clause"><span class="n">5.2</span><span>We do not sell your personal data to third parties.</span></p>
+<h2 id="6-data-retention">6. Data Retention</h2>
+<p class="clause"><span class="n">6.1</span><span>We retain your data for the following periods:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>Contact form enquiries: 2 years from last contact.</span></li>
+<li><span class="n">(b)</span><span>Newsletter subscriptions: Until you unsubscribe, plus 6 months.</span></li>
+<li><span class="n">(c)</span><span>Website analytics data: 26 months.</span></li>
+<li><span class="n">(d)</span><span>Server logs: 12 months.</span></li>
+</ul>
+<h2 id="7-your-rights">7. Your Rights</h2>
+<p class="clause"><span class="n">7.1</span><span>Under the UK GDPR, you have the right to:</span></p>
+<ul class="items">
+<li><span class="n">(a)</span><span>access the personal data we hold about you;</span></li>
+<li><span class="n">(b)</span><span>request correction of inaccurate data;</span></li>
+<li><span class="n">(c)</span><span>request deletion of your data;</span></li>
+<li><span class="n">(d)</span><span>restrict or object to processing;</span></li>
+<li><span class="n">(e)</span><span>receive your data in a portable format; and</span></li>
+<li><span class="n">(f)</span><span>withdraw consent at any time (where processing is based on consent).</span></li>
+</ul>
+<p class="clause"><span class="n">7.2</span><span>To exercise any of these rights, contact us at <a href="mailto:virgilioalmeida2005@gmail.com">virgilioalmeida2005@gmail.com</a>. We will respond within one calendar month.</span></p>
+<h2 id="8-international-transfers">8. International Transfers</h2>
+<p class="clause"><span class="n">8.1</span><span>Some of our third-party service providers (such as Google Analytics) may transfer data outside the United Kingdom. Where this occurs, we ensure appropriate safeguards are in place (such as Standard Contractual Clauses or adequacy decisions).</span></p>
+<h2 id="9-security">9. Security</h2>
+<p class="clause"><span class="n">9.1</span><span>We use SSL/TLS encryption on the Website and implement appropriate technical measures to protect your data. However, no method of transmission over the internet is 100% secure.</span></p>
+<h2 id="10-children">10. Children</h2>
+<p class="clause"><span class="n">10.1</span><span>The Website is not directed at children under 16. We do not knowingly collect personal data from children. If we become aware that we have collected data from a child under 16, we will delete it promptly.</span></p>
+<h2 id="11-complaints">11. Complaints</h2>
+<p class="clause"><span class="n">11.1</span><span>If you have concerns about how we handle your data, please contact us at <a href="mailto:virgilioalmeida2005@gmail.com">virgilioalmeida2005@gmail.com</a>.</span></p>
+<p class="clause"><span class="n">11.2</span><span>You also have the right to lodge a complaint with the Information Commissioner's Office (ICO) at ico.org.uk or by calling 0303 123 1113.</span></p>
+<h2 id="12-changes">12. Changes</h2>
+<p class="clause"><span class="n">12.1</span><span>We may update this policy from time to time. Changes will be posted on this page with an updated "Last updated" date.</span></p>6:X
+b:X
+b:C
+0:{"buildId":"90RKt30gVz2qCReEbd8e_","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"container page-hero-inner","children":["$undefined",["$","p",null,{"className":"eyebrow","children":"Mustard Seed Ltd · Documents"}],["$","h1",null,{"children":"Website Privacy Policy"}],"$undefined",["$","ul",null,{"className":"doc-meta","children":[["$","li","Last updated: <span class=\"ph\">[Date]</span>",{"dangerouslySetInnerHTML":{"__html":"Last updated: <span class=\"ph\">[Date]</span>"}}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container doc-layout","children":[["$","aside",null,{"className":"doc-toc","children":[["$","p",null,{"className":"eyebrow","children":"On this page"}],["$","nav",null,{"children":[["$","a","1-introduction",{"href":"#1-introduction","children":"Introduction"}],["$","a","2-what-data-we-collect",{"href":"#2-what-data-we-collect","children":"What Data We Collect"}],["$","a","3-how-we-use-your-data",{"href":"#3-how-we-use-your-data","children":"How We Use Your Data"}],["$","a","4-lawful-basis",{"href":"#4-lawful-basis","children":"Lawful Basis"}],["$","a","5-sharing-your-data",{"href":"#5-sharing-your-data","children":"Sharing Your Data"}],["$","a","6-data-retention",{"href":"#6-data-retention","children":"Data Retention"}],["$","a","7-your-rights",{"href":"#7-your-rights","children":"Your Rights"}],["$","a","8-international-transfers",{"href":"#8-international-transfers","children":"International Transfers"}],["$","a","9-security",{"href":"#9-security","children":"Security"}],["$","a","10-children",{"href":"#10-children","children":"Children"}],["$","a","11-complaints",{"href":"#11-complaints","children":"Complaints"}],["$","a","12-changes",{"href":"#12-changes","children":"Changes"}]]}],["$","$L2",null,{"href":"/documents","className":"text-link","children":[["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M20 12H5M10.5 6.5L5 12l5.5 5.5\"/>"}}]," All documents"]}]]}],["$","article",null,{"className":"doc-body","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}]],null,"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$6","varyParams":"$b"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"ViewportBoundary"]
+16:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"MetadataBoundary"]
+17:I[27201,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"IconMark"]
+18:I[39756,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+19:I[37457,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+1a:I[70119,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+:HL["/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","style"]
+4:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+7:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Website Privacy Policy | Mustard Seed"}],["$","meta","1",{"name":"description","content":"Mustard Seed is a faith-driven business incubator. We work inside small businesses and help them grow, with equity rather than debt."}],["$","link","2",{"rel":"icon","href":"/mustard-seed-website/icon.png?icon.0-duoakl2-znd.png","sizes":"200x200","type":"image/png"}],["$","$L17","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+c:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","precedence":"next"}],["$","script","script-0",{"src":"/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","async":true}],["$","script","script-1",{"src":"/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"questrial_5ffb7e21-module__U9s6Na__variable dm_sans_8b51dcaf-module__cCpH7W__variable cormorant_garamond_97c6c07d-module__b6pBUG__variable","children":["$","body",null,{"id":"top","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L1a",null,{}],["$","main",null,{"id":"main","children":["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}],"notFound":[["$","section",null,{"className":"page-hero not-found","children":["$","div",null,{"className":"container page-hero-inner","children":[["$","div",null,{"className":"page-hero-icon","children":["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M3 19.5h18\"/><ellipse class=\"ac\" cx=\"12\" cy=\"13.8\" rx=\"5.6\" ry=\"4.6\"/><path d=\"M9.2 12.6a3 3 0 0 1 2.6-2\"/>"}}]}],["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":"This seed hasn't sprouted yet."}],["$","p",null,{"className":"page-hero-intro","children":"The page you're looking for doesn't exist or has moved."}],["$","div",null,{"className":"hero-actions","children":[["$","$L2",null,{"href":"/","className":"btn btn-gold","children":["Back to home ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}],["$","$L2",null,{"href":"/services","className":"text-link light","children":["Our services ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}]]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"container footer-main","children":[["$","div",null,{"className":"footer-left","children":[["$","$L2",null,{"href":"/","className":"footer-brand","children":["Mustard Seed",["$","span",null,{"children":"."}]]}],["$","p",null,{"className":"footer-tag","children":"Counselling & Business Incubator"}],["$","p",null,{"className":"footer-big","children":["Grow your",["$","br",null,{}],"business"]}],["$","$L2",null,{"href":"/contact","className":"footer-contact","children":"Contact"}]]}],["$","div",null,{"className":"footer-divider","aria-hidden":true}],["$","div",null,{"className":"footer-right","children":[["$","h2",null,{"children":"Info"}],["$","p",null,{"children":"Email us:"}],["$","p",null,{"children":["$","a",null,{"href":"mailto:virgilioalmeida2005@gmail.com","children":"virgilioalmeida2005@gmail.com"}]}],null,["$","h2",null,{"children":"Address"}],[["$","p","Mustard Seed Ltd",{"children":"Mustard Seed Ltd"}],["$","p","United Kingdom",{"children":"United Kingdom"}]]]}],["$","a",null,{"href":"#top","className":"back-to-top","aria-label":"Back to top","children":["$","svg",null,{"viewBox":"0 0 52 76","aria-hidden":true,"children":["$","path",null,{"d":"M26 74V3M4 25L26 3l22 22"}]}]}]]}],["$","div",null,{"className":"footer-legal","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"legal-copy","children":["© ",2026," ","Mustard Seed Ltd",". All rights reserved.",null]}],["$","ul",null,{"className":"legal-links","children":[["$","li","privacy-policy",{"children":["$","$L2",null,{"href":"/documents/privacy-policy","children":"Privacy Policy"}]}],["$","li","cookie-policy",{"children":["$","$L2",null,{"href":"/documents/cookie-policy","children":"Cookie Policy"}]}],["$","li","terms-of-use",{"children":["$","$L2",null,{"href":"/documents/terms-of-use","children":"Terms of Use"}]}],["$","li","terms-of-business",{"children":["$","$L2",null,{"href":"/documents/terms-of-business","children":"Terms of Business"}]}],["$","li","payment-terms",{"children":["$","$L2",null,{"href":"/documents/payment-terms","children":"Payment Terms"}]}],["$","li","anti-bribery-policy",{"children":["$","$L2",null,{"href":"/documents/anti-bribery-policy","children":"Anti-Bribery Policy"}]}],["$","li","complaints-policy",{"children":["$","$L2",null,{"href":"/documents/complaints-policy","children":"Complaints Policy"}]}],["$","li","conflicts-of-interest-policy",{"children":["$","$L2",null,{"href":"/documents/conflicts-of-interest-policy","children":"Conflicts of Interest"}]}],"$L1b","$L1c","$L1d","$L1e"]}]]}]}]]}]]}]}]]}]
+14:null
+1b:["$","li","data-protection-policy",{"children":["$","$L2",null,{"href":"/documents/data-protection-policy","children":"Data Protection"}]}]
+1c:["$","li","equal-opportunities-policy",{"children":["$","$L2",null,{"href":"/documents/equal-opportunities-policy","children":"Equal Opportunities"}]}]
+1d:["$","li","health-and-safety-policy",{"children":["$","$L2",null,{"href":"/documents/health-and-safety-policy","children":"Health & Safety"}]}]
+1e:["$","li","information-security-policy",{"children":["$","$L2",null,{"href":"/documents/information-security-policy","children":"Information Security"}]}]
+11:true
+6:300
+6:C
+10:0
+8:"$undefined"
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"

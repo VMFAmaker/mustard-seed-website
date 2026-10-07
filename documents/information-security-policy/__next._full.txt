@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[70119,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+3:I[39756,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+4:I[37457,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default"]
+5:I[22016,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],""]
+12:I[68027,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"default",1]
+:HL["/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","style"]
+:HL["/mustard-seed-website/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mustard-seed-website/_next/static/media/2f19417f17ff8e58-s.p.257evxe-10jj3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mustard-seed-website/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mustard-seed-website/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+10:X
+0:{"P":null,"c":["","documents","information-security-policy",""],"q":"","i":false,"f":[[["",{"children":["documents",{"children":[["slug","information-security-policy","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","className":"questrial_5ffb7e21-module__U9s6Na__variable dm_sans_8b51dcaf-module__cCpH7W__variable cormorant_garamond_97c6c07d-module__b6pBUG__variable","children":["$","body",null,{"id":"top","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"page-hero not-found","children":["$","div",null,{"className":"container page-hero-inner","children":[["$","div",null,{"className":"page-hero-icon","children":["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"role":"$undefined","aria-label":"$undefined","dangerouslySetInnerHTML":{"__html":"<path d=\"M3 19.5h18\"/><ellipse class=\"ac\" cx=\"12\" cy=\"13.8\" rx=\"5.6\" ry=\"4.6\"/><path d=\"M9.2 12.6a3 3 0 0 1 2.6-2\"/>"}}]}],["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":"This seed hasn't sprouted yet."}],["$","p",null,{"className":"page-hero-intro","children":"The page you're looking for doesn't exist or has moved."}],["$","div",null,{"className":"hero-actions","children":[["$","$L5",null,{"href":"/","className":"btn btn-gold","children":["Back to home ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"role":"$undefined","aria-label":"$undefined","dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}],["$","$L5",null,{"href":"/services","className":"text-link light","children":["Our services ",["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"role":"$undefined","aria-label":"$undefined","dangerouslySetInnerHTML":{"__html":"<path d=\"M4 12h15M13.5 6.5L19 12l-5.5 5.5\"/>"}}]]}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"container footer-main","children":[["$","div",null,{"className":"footer-left","children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["Mustard Seed",["$","span",null,{"children":"."}]]}],["$","p",null,{"className":"footer-tag","children":"Counselling & Business Incubator"}],["$","p",null,{"className":"footer-big","children":["Grow your",["$","br",null,{}],"business"]}],["$","$L5",null,{"href":"/contact","className":"footer-contact","children":"Contact"}]]}],["$","div",null,{"className":"footer-divider","aria-hidden":true}],["$","div",null,{"className":"footer-right","children":[["$","h2",null,{"children":"Info"}],["$","p",null,{"children":"Email us:"}],["$","p",null,{"children":["$","a",null,{"href":"mailto:virgilioalmeida2005@gmail.com","children":"virgilioalmeida2005@gmail.com"}]}],null,["$","h2",null,{"children":"Address"}],[["$","p","Mustard Seed Ltd",{"children":"Mustard Seed Ltd"}],["$","p","United Kingdom",{"children":"United Kingdom"}]]]}],["$","a",null,{"href":"#top","className":"back-to-top","aria-label":"Back to top","children":["$","svg",null,{"viewBox":"0 0 52 76","aria-hidden":true,"children":["$","path",null,{"d":"M26 74V3M4 25L26 3l22 22"}]}]}]]}],["$","div",null,{"className":"footer-legal","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"legal-copy","children":["© ",2026," ","Mustard Seed Ltd",". All rights reserved.",null]}],["$","ul",null,{"className":"legal-links","children":[["$","li","privacy-policy",{"children":["$","$L5",null,{"href":"/documents/privacy-policy","children":"Privacy Policy"}]}],["$","li","cookie-policy",{"children":["$","$L5",null,{"href":"/documents/cookie-policy","children":"Cookie Policy"}]}],["$","li","terms-of-use",{"children":["$","$L5",null,{"href":"/documents/terms-of-use","children":"Terms of Use"}]}],["$","li","terms-of-business",{"children":["$","$L5",null,{"href":"/documents/terms-of-business","children":"Terms of Business"}]}],["$","li","payment-terms",{"children":["$","$L5",null,{"href":"/documents/payment-terms","children":"Payment Terms"}]}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}]]}]}]]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$10"]},null,false,"$10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",["$L13"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"90RKt30gVz2qCReEbd8e_"}
+15:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"ViewportBoundary"]
+1a:I[97367,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"MetadataBoundary"]
+6:["$","li","anti-bribery-policy",{"children":["$","$L5",null,{"href":"/documents/anti-bribery-policy","children":"Anti-Bribery Policy"}]}]
+7:["$","li","complaints-policy",{"children":["$","$L5",null,{"href":"/documents/complaints-policy","children":"Complaints Policy"}]}]
+8:["$","li","conflicts-of-interest-policy",{"children":["$","$L5",null,{"href":"/documents/conflicts-of-interest-policy","children":"Conflicts of Interest"}]}]
+9:["$","li","data-protection-policy",{"children":["$","$L5",null,{"href":"/documents/data-protection-policy","children":"Data Protection"}]}]
+a:["$","li","equal-opportunities-policy",{"children":["$","$L5",null,{"href":"/documents/equal-opportunities-policy","children":"Equal Opportunities"}]}]
+b:["$","li","health-and-safety-policy",{"children":["$","$L5",null,{"href":"/documents/health-and-safety-policy","children":"Health & Safety"}]}]
+c:["$","li","information-security-policy",{"children":["$","$L5",null,{"href":"/documents/information-security-policy","children":"Information Security"}]}]
+d:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","link","0",{"rel":"stylesheet","href":"/mustard-seed-website/_next/static/chunks/0j33hxq3kqho2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["/mustard-seed-website/_next/static/chunks/3fntmmi971322.js","/mustard-seed-website/_next/static/chunks/3m4m877kr2zwk.js"],"IconMark"]
+17:null
+1b:[["$","title","0",{"children":"Information Security Policy | Mustard Seed"}],["$","meta","1",{"name":"description","content":"Mustard Seed is a faith-driven business incubator. We work inside small businesses and help them grow, with equity rather than debt."}],["$","link","2",{"rel":"icon","href":"/mustard-seed-website/icon.png?icon.0-duoakl2-znd.png","sizes":"200x200","type":"image/png"}],["$","$L1c","3",{}]]
+1d:T12e3,<h2 id="1-purpose">1. Purpose</h2>
+<p>This policy sets out the measures Mustard Seed Ltd takes to protect its information assets and those of its clients and portfolio companies.</p>
+<h2 id="2-scope">2. Scope</h2>
+<p>This policy applies to all directors, employees, contractors, and consultants. It covers all information (digital and physical) processed, stored, or transmitted by Mustard Seed.</p>
+<h2 id="3-classification">3. Classification</h2>
+<p>Information handled by Mustard Seed is classified as follows:</p>
+<ul class="bullets">
+<li>Confidential: Client financial data, portfolio company business plans, strategic information, personal data. Access restricted to authorised personnel only.</li>
+<li>Internal: Mustard Seed operational documents, policies, internal communications. Access limited to Mustard Seed personnel.</li>
+<li>Public: Marketing materials, published content, general business information. No access restrictions.</li>
+</ul>
+<h2 id="4-access-control">4. Access Control</h2>
+<p>Access to information is granted on a need-to-know basis.</p>
+<ul class="bullets">
+<li>Each person receives access only to the information required for their role</li>
+<li>Access rights are reviewed when a person's role changes or when they leave</li>
+<li>Shared accounts are prohibited</li>
+<li>Multi-factor authentication is required for all cloud services and email accounts</li>
+</ul>
+<h2 id="5-device-security">5. Device Security</h2>
+<p>All devices (laptops, phones, tablets) used to access Mustard Seed or client information must:</p>
+<ul class="bullets">
+<li>Be protected by a strong password or biometric authentication</li>
+<li>Have encryption enabled (full disk encryption for laptops)</li>
+<li>Have automatic screen lock after 5 minutes of inactivity</li>
+<li>Run up-to-date operating systems and security software</li>
+<li>Not be left unattended in public places</li>
+</ul>
+<h2 id="6-email-and-communication">6. Email and Communication</h2>
+<ul class="bullets">
+<li>Confidential information should not be sent by unencrypted email where possible. Use encrypted file sharing (e.g. password-protected files or secure cloud links) for sensitive documents.</li>
+<li>Be alert to phishing emails. Do not click links or open attachments from unknown or suspicious sources.</li>
+<li>Do not use personal email accounts for business correspondence.</li>
+</ul>
+<h2 id="7-cloud-services-and-storage">7. Cloud Services and Storage</h2>
+<ul class="bullets">
+<li>Business data must be stored on approved cloud services (currently <span class="ph">[e.g. Microsoft 365, Google Workspace]</span>).</li>
+<li>Data must not be stored on personal cloud accounts (personal Dropbox, Google Drive, etc.).</li>
+<li>Cloud services must be configured with appropriate access controls and sharing settings.</li>
+</ul>
+<h2 id="8-physical-security">8. Physical Security</h2>
+<ul class="bullets">
+<li>Paper documents containing confidential information must be stored in locked cabinets or drawers.</li>
+<li>Confidential documents must be shredded when no longer needed.</li>
+<li>Screens should not be visible to unauthorised persons when working in public or shared spaces.</li>
+</ul>
+<h2 id="9-information-barriers-portfolio-companies">9. Information Barriers (Portfolio Companies)</h2>
+<p>When Mustard Seed works with multiple portfolio companies, information barriers must be maintained in accordance with the Conflicts of Interest Policy. This includes separate file storage areas, restricted access permissions, and clear labelling of portfolio company data.</p>
+<h2 id="10-incident-response">10. Incident Response</h2>
+<p>Any security incident (data breach, lost device, unauthorised access, suspected compromise) must be reported to the Managing Director immediately.</p>
+<p>The Managing Director will assess the incident, take containment action, and determine whether notification to the ICO or affected individuals is required under the UK GDPR.</p>
+<h2 id="11-disposal">11. Disposal</h2>
+<p>When devices are decommissioned or data is no longer needed:</p>
+<ul class="bullets">
+<li>Digital data must be securely wiped (using approved data destruction software)</li>
+<li>Hard drives that cannot be wiped must be physically destroyed</li>
+<li>Paper documents must be shredded</li>
+</ul>
+<h2 id="12-personnel-leaving">12. Personnel Leaving</h2>
+<p>When a person leaves Mustard Seed or completes an engagement, their access to all systems and data must be revoked within 24 hours. All Mustard Seed and client data on personal devices must be confirmed deleted.</p>
+<h2 id="13-training">13. Training</h2>
+<p>All personnel will receive information security awareness training on induction and annually thereafter.</p>
+<h2 id="14-review">14. Review</h2>
+<p>This policy will be reviewed annually or following a significant security incident.</p>14:[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"container page-hero-inner","children":["$undefined",["$","p",null,{"className":"eyebrow","children":"Mustard Seed Ltd · Documents"}],["$","h1",null,{"children":"Information Security Policy"}],"$undefined",["$","ul",null,{"className":"doc-meta","children":[["$","li","Effective from: <span class=\"ph\">[Date]</span>",{"dangerouslySetInnerHTML":{"__html":"Effective from: <span class=\"ph\">[Date]</span>"}}],["$","li","Version 1.0",{"dangerouslySetInnerHTML":{"__html":"Version 1.0"}}],["$","li","Policy Owner: Managing Director",{"dangerouslySetInnerHTML":{"__html":"Policy Owner: Managing Director"}}],["$","li","Approved By: <span class=\"ph\">[Founder Name]</span>",{"dangerouslySetInnerHTML":{"__html":"Approved By: <span class=\"ph\">[Founder Name]</span>"}}],["$","li","Next Review Date: <span class=\"ph\">[Date + 12 months]</span>",{"dangerouslySetInnerHTML":{"__html":"Next Review Date: <span class=\"ph\">[Date + 12 months]</span>"}}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container doc-layout","children":[["$","aside",null,{"className":"doc-toc","children":[["$","p",null,{"className":"eyebrow","children":"On this page"}],["$","nav",null,{"children":[["$","a","1-purpose",{"href":"#1-purpose","children":"Purpose"}],["$","a","2-scope",{"href":"#2-scope","children":"Scope"}],["$","a","3-classification",{"href":"#3-classification","children":"Classification"}],["$","a","4-access-control",{"href":"#4-access-control","children":"Access Control"}],["$","a","5-device-security",{"href":"#5-device-security","children":"Device Security"}],["$","a","6-email-and-communication",{"href":"#6-email-and-communication","children":"Email and Communication"}],["$","a","7-cloud-services-and-storage",{"href":"#7-cloud-services-and-storage","children":"Cloud Services and Storage"}],["$","a","8-physical-security",{"href":"#8-physical-security","children":"Physical Security"}],["$","a","9-information-barriers-portfolio-companies",{"href":"#9-information-barriers-portfolio-companies","children":"Information Barriers (Portfolio Companies)"}],["$","a","10-incident-response",{"href":"#10-incident-response","children":"Incident Response"}],["$","a","11-disposal",{"href":"#11-disposal","children":"Disposal"}],["$","a","12-personnel-leaving",{"href":"#12-personnel-leaving","children":"Personnel Leaving"}],["$","a","13-training",{"href":"#13-training","children":"Training"}],["$","a","14-review",{"href":"#14-review","children":"Review"}]]}],["$","$L5",null,{"href":"/documents","className":"text-link","children":[["$","svg",null,{"className":"icon ","viewBox":"0 0 24 24","aria-hidden":true,"role":"$undefined","aria-label":"$undefined","dangerouslySetInnerHTML":{"__html":"<path d=\"M20 12H5M10.5 6.5L5 12l5.5 5.5\"/>"}}]," All documents"]}]]}],["$","article",null,{"className":"doc-body","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]}]]
