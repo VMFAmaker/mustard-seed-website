@@ -1,0 +1,75 @@
+{
+ "meta": [
+  "Effective from: <span class=\"ph\">[Date]</span>",
+  "Version 1.0"
+ ],
+ "control": [
+  [
+   "Policy Owner",
+   "Managing Director"
+  ],
+  [
+   "Approved By",
+   "<span class=\"ph\">[Founder Name]</span>"
+  ],
+  [
+   "Version",
+   "1.0"
+  ],
+  [
+   "Effective Date",
+   "<span class=\"ph\">[Date]</span>"
+  ],
+  [
+   "Next Review Date",
+   "<span class=\"ph\">[Date + 12 months]</span>"
+  ]
+ ],
+ "html": "<h2 id=\"1-purpose\">1. Purpose</h2>\n<p>This policy sets out Mustard Seed Ltd's commitment to equality and diversity in all aspects of its operations, in compliance with the Equality Act 2010.</p>\n<h2 id=\"2-scope\">2. Scope</h2>\n<p>This policy applies to all directors, employees, contractors, consultants, job applicants, and clients. It covers recruitment, engagement terms, training, promotion, and termination.</p>\n<h2 id=\"3-policy-statement\">3. Policy Statement</h2>\n<p>Mustard Seed is committed to providing equal opportunities for all. We will not discriminate on the grounds of:</p>\n<ul class=\"bullets\">\n<li>Age</li>\n<li>Disability</li>\n<li>Gender reassignment</li>\n<li>Marriage and civil partnership</li>\n<li>Pregnancy and maternity</li>\n<li>Race (including colour, nationality, ethnic or national origin)</li>\n<li>Religion or belief</li>\n<li>Sex</li>\n<li>Sexual orientation</li>\n</ul>\n<p>These are the protected characteristics under the Equality Act 2010.</p>\n<h2 id=\"4-recruitment-and-selection\">4. Recruitment and Selection</h2>\n<p>All recruitment and selection decisions will be based on merit. Job descriptions and person specifications will reflect genuine requirements of the role. Selection criteria will be applied consistently to all candidates.</p>\n<h2 id=\"5-faith-and-values\">5. Faith and Values</h2>\n<p>Mustard Seed is a faith-driven business. Our values of integrity, service, and stewardship inform how we work. However, faith is not a hiring criterion. We welcome people of all faiths and none. Our faith shapes our culture and ethics, not our employment decisions.</p>\n<h2 id=\"6-working-with-portfolio-companies\">6. Working with Portfolio Companies</h2>\n<p>Mustard Seed expects its portfolio companies to share a commitment to fair treatment and non-discrimination. While we do not impose our policies on independent companies, we will raise concerns where we observe discriminatory practices and will consider this as part of our due diligence and ongoing relationship.</p>\n<h2 id=\"7-harassment-and-bullying\">7. Harassment and Bullying</h2>\n<p>Mustard Seed has a zero-tolerance approach to harassment and bullying. This includes:</p>\n<ul class=\"bullets\">\n<li>Unwanted conduct related to a protected characteristic that has the purpose or effect of violating a person's dignity or creating an intimidating, hostile, degrading, humiliating, or offensive environment</li>\n<li>Unwanted conduct of a sexual nature</li>\n<li>Less favourable treatment because of submission to or rejection of unwanted conduct</li>\n</ul>\n<p>Any person who believes they have been subjected to harassment or bullying should report it to the Managing Director.</p>\n<h2 id=\"8-reasonable-adjustments\">8. Reasonable Adjustments</h2>\n<p>Mustard Seed will make reasonable adjustments for disabled persons to remove barriers to participation, in accordance with the Equality Act 2010.</p>\n<h2 id=\"9-training\">9. Training</h2>\n<p>All personnel will be made aware of this policy on induction. Additional training will be provided where appropriate.</p>\n<h2 id=\"10-complaints\">10. Complaints</h2>\n<p>Complaints of discrimination, harassment, or bullying will be taken seriously and investigated in accordance with the Complaints Handling Policy. Anyone raising a genuine concern will be protected from retaliation.</p>\n<h2 id=\"11-monitoring\">11. Monitoring</h2>\n<p>Mustard Seed will monitor the effectiveness of this policy and review it annually.</p>",
+ "toc": [
+  [
+   "1-purpose",
+   "Purpose"
+  ],
+  [
+   "2-scope",
+   "Scope"
+  ],
+  [
+   "3-policy-statement",
+   "Policy Statement"
+  ],
+  [
+   "4-recruitment-and-selection",
+   "Recruitment and Selection"
+  ],
+  [
+   "5-faith-and-values",
+   "Faith and Values"
+  ],
+  [
+   "6-working-with-portfolio-companies",
+   "Working with Portfolio Companies"
+  ],
+  [
+   "7-harassment-and-bullying",
+   "Harassment and Bullying"
+  ],
+  [
+   "8-reasonable-adjustments",
+   "Reasonable Adjustments"
+  ],
+  [
+   "9-training",
+   "Training"
+  ],
+  [
+   "10-complaints",
+   "Complaints"
+  ],
+  [
+   "11-monitoring",
+   "Monitoring"
+  ]
+ ]
+}

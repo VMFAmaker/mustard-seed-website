@@ -1,0 +1,75 @@
+{
+ "meta": [
+  "Effective from: <span class=\"ph\">[Date]</span>",
+  "Version 1.0"
+ ],
+ "control": [
+  [
+   "Policy Owner",
+   "Managing Director"
+  ],
+  [
+   "Approved By",
+   "<span class=\"ph\">[Founder Name]</span>"
+  ],
+  [
+   "Version",
+   "1.0"
+  ],
+  [
+   "Effective Date",
+   "<span class=\"ph\">[Date]</span>"
+  ],
+  [
+   "Next Review Date",
+   "<span class=\"ph\">[Date + 12 months]</span>"
+  ]
+ ],
+ "html": "<h2 id=\"1-purpose\">1. Purpose</h2>\n<p>This policy sets out how Mustard Seed Ltd handles complaints from clients, portfolio companies, and other stakeholders. It ensures that complaints are dealt with fairly, promptly, and transparently.</p>\n<h2 id=\"2-scope\">2. Scope</h2>\n<p>This policy applies to any complaint received about Mustard Seed's services, personnel, or conduct. It covers complaints from portfolio companies, fee-paying clients, and any other third party.</p>\n<h2 id=\"3-what-is-a-complaint\">3. What is a Complaint</h2>\n<p>A complaint is any expression of dissatisfaction, whether made orally or in writing, about the standard of service, actions, or lack of actions by Mustard Seed or its personnel.</p>\n<h2 id=\"4-how-to-make-a-complaint\">4. How to Make a Complaint</h2>\n<p>Complaints can be made by:</p>\n<ul class=\"bullets\">\n<li>Email to <a href=\"mailto:virgilioalmeida2005@gmail.com\">virgilioalmeida2005@gmail.com</a></li>\n<li>Letter to Mustard Seed Ltd, <span class=\"ph\">[Registered Address]</span></li>\n<li>In person to any Mustard Seed consultant or the Managing Director</li>\n</ul>\n<p>Where possible, complaints should be made in writing and include the complainant's name, contact details, a description of the issue, and the desired outcome.</p>\n<h2 id=\"5-acknowledgement\">5. Acknowledgement</h2>\n<p>All complaints will be acknowledged within 3 Business Days of receipt. The acknowledgement will confirm who is handling the complaint and the expected timeline for resolution.</p>\n<h2 id=\"6-investigation\">6. Investigation</h2>\n<p>The Managing Director (or a nominated person who is not the subject of the complaint) will investigate the complaint. The investigation will:</p>\n<ul class=\"bullets\">\n<li>Review all relevant facts and documents</li>\n<li>Speak to the people involved</li>\n<li>Consider whether the complaint is justified, partially justified, or not justified</li>\n</ul>\n<p>The investigation will be completed within 15 Business Days of the complaint being acknowledged. If more time is needed, the complainant will be informed of the reason for the delay and the revised timeline.</p>\n<h2 id=\"7-response\">7. Response</h2>\n<p>The complainant will receive a written response setting out:</p>\n<ul class=\"bullets\">\n<li>A summary of the complaint</li>\n<li>The findings of the investigation</li>\n<li>Any remedial action Mustard Seed will take</li>\n<li>The complainant's right to escalate if dissatisfied</li>\n</ul>\n<h2 id=\"8-escalation\">8. Escalation</h2>\n<p>If the complainant is not satisfied with the response, they may escalate the complaint to the Managing Director (if not already involved) within 10 Business Days.</p>\n<p>If the complaint remains unresolved after internal escalation, the complainant may refer the matter to mediation under the CEDR Model Mediation Procedure, in accordance with the dispute resolution provisions in the relevant service agreement.</p>\n<h2 id=\"9-records\">9. Records</h2>\n<p>All complaints, investigations, and outcomes are recorded in the Complaints Register. The register is reviewed quarterly to identify patterns and areas for improvement.</p>\n<h2 id=\"10-learning-from-complaints\">10. Learning from Complaints</h2>\n<p>Mustard Seed views complaints as an opportunity to improve. Where a complaint identifies a genuine shortcoming, the Managing Director will implement corrective action and update relevant policies or procedures as necessary.</p>\n<h2 id=\"11-review\">11. Review</h2>\n<p>This policy will be reviewed annually.</p>",
+ "toc": [
+  [
+   "1-purpose",
+   "Purpose"
+  ],
+  [
+   "2-scope",
+   "Scope"
+  ],
+  [
+   "3-what-is-a-complaint",
+   "What is a Complaint"
+  ],
+  [
+   "4-how-to-make-a-complaint",
+   "How to Make a Complaint"
+  ],
+  [
+   "5-acknowledgement",
+   "Acknowledgement"
+  ],
+  [
+   "6-investigation",
+   "Investigation"
+  ],
+  [
+   "7-response",
+   "Response"
+  ],
+  [
+   "8-escalation",
+   "Escalation"
+  ],
+  [
+   "9-records",
+   "Records"
+  ],
+  [
+   "10-learning-from-complaints",
+   "Learning from Complaints"
+  ],
+  [
+   "11-review",
+   "Review"
+  ]
+ ]
+}

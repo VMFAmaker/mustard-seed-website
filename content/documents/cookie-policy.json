@@ -1,0 +1,33 @@
+{
+ "meta": [
+  "Last updated: <span class=\"ph\">[Date]</span>"
+ ],
+ "control": [],
+ "html": "<h2 id=\"1-what-are-cookies\">1. What Are Cookies</h2>\n<p class=\"clause\"><span class=\"n\">1.1</span><span>Cookies are small text files placed on your device when you visit a website. They are widely used to make websites work more efficiently and to provide information to the website owner.</span></p>\n<p class=\"clause\"><span class=\"n\">1.2</span><span>This Cookie Policy explains what cookies we use on the Mustard Seed Ltd website at <span class=\"ph\">[website URL]</span> (the \"Website\"), why we use them, and how you can manage them.</span></p>\n<h2 id=\"2-how-we-use-cookies\">2. How We Use Cookies</h2>\n<p class=\"clause\"><span class=\"n\">2.1</span><span>We use cookies for the following purposes:</span></p>\n<div class=\"table-scroll\"><table><thead><tr><th>Category</th><th>Cookie</th><th>Purpose</th><th>Duration</th></tr></thead><tbody><tr><td>Strictly Necessary</td><td><span class=\"ph\">[e.g. session_id]</span></td><td>Essential for the Website to function (e.g. remembering your cookie consent choice)</td><td>Session / 1 year</td></tr><tr><td>Analytics</td><td><span class=\"ph\">[e.g. _ga, _gid]</span></td><td>Help us understand how visitors use the Website (pages visited, time on site) so we can improve it</td><td>2 years / 24 hours</td></tr><tr><td>Functional</td><td><span class=\"ph\">[e.g. language preference]</span></td><td>Remember your preferences (language, region) to personalise your experience</td><td>1 year</td></tr><tr><td>Marketing</td><td><span class=\"ph\">[None currently used]</span></td><td>We do not currently use marketing or advertising cookies. If this changes, this policy will be updated.</td><td>N/A</td></tr></tbody></table></div>\n<h2 id=\"3-third-party-cookies\">3. Third-Party Cookies</h2>\n<p class=\"clause\"><span class=\"n\">3.1</span><span>Some cookies are placed by third-party services that appear on our pages. We do not control these cookies. The third-party services we use include:</span></p>\n<ul class=\"items\">\n<li><span class=\"n\">(a)</span><span>Google Analytics (analytics cookies) - see Google's privacy policy at policies.google.com/privacy;</span></li>\n<li><span class=\"n\">(b)</span><span><span class=\"ph\">[Any other third-party services, e.g. embedded videos, social media widgets]</span>.</span></li>\n</ul>\n<h2 id=\"4-managing-cookies\">4. Managing Cookies</h2>\n<p class=\"clause\"><span class=\"n\">4.1</span><span>When you first visit the Website, you will be shown a cookie banner asking for your consent to non-essential cookies. You can accept or reject non-essential cookies using the banner controls.</span></p>\n<p class=\"clause\"><span class=\"n\">4.2</span><span>You can also manage cookies through your browser settings. Most browsers allow you to:</span></p>\n<ul class=\"items\">\n<li><span class=\"n\">(a)</span><span>view what cookies are stored and delete them individually;</span></li>\n<li><span class=\"n\">(b)</span><span>block third-party cookies;</span></li>\n<li><span class=\"n\">(c)</span><span>block cookies from specific websites; and</span></li>\n<li><span class=\"n\">(d)</span><span>block all cookies.</span></li>\n</ul>\n<p class=\"clause\"><span class=\"n\">4.3</span><span>Please note that blocking all cookies may affect the functionality of the Website and other websites you visit.</span></p>\n<p class=\"clause\"><span class=\"n\">4.4</span><span>For more information about managing cookies, visit allaboutcookies.org.</span></p>\n<h2 id=\"5-changes-to-this-policy\">5. Changes to This Policy</h2>\n<p class=\"clause\"><span class=\"n\">5.1</span><span>We may update this Cookie Policy from time to time. Changes will be posted on this page with an updated \"Last updated\" date.</span></p>\n<h2 id=\"6-contact\">6. Contact</h2>\n<p class=\"clause\"><span class=\"n\">6.1</span><span>If you have any questions about our use of cookies, please contact us at <a href=\"mailto:virgilioalmeida2005@gmail.com\">virgilioalmeida2005@gmail.com</a>.</span></p>",
+ "toc": [
+  [
+   "1-what-are-cookies",
+   "What Are Cookies"
+  ],
+  [
+   "2-how-we-use-cookies",
+   "How We Use Cookies"
+  ],
+  [
+   "3-third-party-cookies",
+   "Third-Party Cookies"
+  ],
+  [
+   "4-managing-cookies",
+   "Managing Cookies"
+  ],
+  [
+   "5-changes-to-this-policy",
+   "Changes to This Policy"
+  ],
+  [
+   "6-contact",
+   "Contact"
+  ]
+ ]
+}

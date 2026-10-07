@@ -1,0 +1,75 @@
+{
+ "meta": [
+  "Effective from: <span class=\"ph\">[Date]</span>",
+  "Version 1.0"
+ ],
+ "control": [
+  [
+   "Policy Owner",
+   "Managing Director"
+  ],
+  [
+   "Approved By",
+   "<span class=\"ph\">[Founder Name]</span>"
+  ],
+  [
+   "Version",
+   "1.0"
+  ],
+  [
+   "Effective Date",
+   "<span class=\"ph\">[Date]</span>"
+  ],
+  [
+   "Next Review Date",
+   "<span class=\"ph\">[Date + 12 months]</span>"
+  ]
+ ],
+ "html": "<h2 id=\"1-purpose\">1. Purpose</h2>\n<p>This policy sets out Mustard Seed Ltd's commitment to health and safety in accordance with the Health and Safety at Work etc. Act 1974 and related regulations.</p>\n<h2 id=\"2-scope\">2. Scope</h2>\n<p>This policy applies to all directors, employees, contractors, and consultants of Mustard Seed, and to any premises where Mustard Seed personnel are working (including client premises and home offices).</p>\n<h2 id=\"3-policy-statement\">3. Policy Statement</h2>\n<p>Mustard Seed is committed to providing a safe and healthy working environment for all personnel, visitors, and anyone affected by our activities. As a primarily embedded consulting business, our main workplace risks arise from working at client premises and home offices rather than a fixed office.</p>\n<h2 id=\"4-responsibilities\">4. Responsibilities</h2>\n<p>The Managing Director is responsible for:</p>\n<ul class=\"bullets\">\n<li>Overall health and safety compliance</li>\n<li>Ensuring risk assessments are conducted</li>\n<li>Providing appropriate resources for health and safety</li>\n<li>Reviewing this policy annually</li>\n</ul>\n<p>All personnel are responsible for:</p>\n<ul class=\"bullets\">\n<li>Taking reasonable care of their own health and safety and that of others</li>\n<li>Cooperating with health and safety arrangements</li>\n<li>Reporting any hazards, accidents, or near-misses</li>\n<li>Complying with client site health and safety rules when working on client premises</li>\n</ul>\n<h2 id=\"5-risk-assessment\">5. Risk Assessment</h2>\n<p>Mustard Seed conducts risk assessments for:</p>\n<ul class=\"bullets\">\n<li>Home office working (display screen equipment, workstation setup)</li>\n<li>Client site visits (before commencing work at a new client premises)</li>\n<li>Travel (driving for work, public transport)</li>\n</ul>\n<p>Risk assessments are reviewed annually or when circumstances change.</p>\n<h2 id=\"6-home-working\">6. Home Working</h2>\n<p>Personnel working from home must:</p>\n<ul class=\"bullets\">\n<li>Set up their workstation in accordance with the Display Screen Equipment Regulations 1992</li>\n<li>Take regular breaks from screen work</li>\n<li>Report any discomfort or health issues related to their workstation setup</li>\n</ul>\n<p>Mustard Seed will provide guidance on workstation setup and, where reasonably practicable, contribute to equipment costs.</p>\n<h2 id=\"7-client-premises\">7. Client Premises</h2>\n<p>When working at client premises, Mustard Seed personnel must comply with the client's health and safety policies and procedures. Before commencing work, personnel should familiarise themselves with fire exits, first aid facilities, and emergency procedures.</p>\n<h2 id=\"8-accident-and-incident-reporting\">8. Accident and Incident Reporting</h2>\n<p>All accidents, incidents, and near-misses must be reported to the Managing Director immediately. Incidents will be investigated and recorded. Reportable incidents under RIDDOR will be reported to the Health and Safety Executive.</p>\n<h2 id=\"9-mental-health-and-wellbeing\">9. Mental Health and Wellbeing</h2>\n<p>Mustard Seed recognises the importance of mental health. The embedded consulting model can be demanding. Personnel are encouraged to raise any concerns about workload, stress, or wellbeing with the Managing Director. Support will be provided as appropriate.</p>\n<h2 id=\"10-first-aid\">10. First Aid</h2>\n<p>Mustard Seed will ensure that appropriate first aid arrangements are in place. For home workers, this means having a basic first aid kit. On client premises, the client's first aid arrangements apply.</p>\n<h2 id=\"11-review\">11. Review</h2>\n<p>This policy will be reviewed annually.</p>",
+ "toc": [
+  [
+   "1-purpose",
+   "Purpose"
+  ],
+  [
+   "2-scope",
+   "Scope"
+  ],
+  [
+   "3-policy-statement",
+   "Policy Statement"
+  ],
+  [
+   "4-responsibilities",
+   "Responsibilities"
+  ],
+  [
+   "5-risk-assessment",
+   "Risk Assessment"
+  ],
+  [
+   "6-home-working",
+   "Home Working"
+  ],
+  [
+   "7-client-premises",
+   "Client Premises"
+  ],
+  [
+   "8-accident-and-incident-reporting",
+   "Accident and Incident Reporting"
+  ],
+  [
+   "9-mental-health-and-wellbeing",
+   "Mental Health and Wellbeing"
+  ],
+  [
+   "10-first-aid",
+   "First Aid"
+  ],
+  [
+   "11-review",
+   "Review"
+  ]
+ ]
+}

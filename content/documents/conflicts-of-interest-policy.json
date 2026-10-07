@@ -1,0 +1,71 @@
+{
+ "meta": [
+  "Effective from: <span class=\"ph\">[Date]</span>",
+  "Version 1.0"
+ ],
+ "control": [
+  [
+   "Policy Owner",
+   "Managing Director"
+  ],
+  [
+   "Approved By",
+   "<span class=\"ph\">[Founder Name]</span>"
+  ],
+  [
+   "Version",
+   "1.0"
+  ],
+  [
+   "Effective Date",
+   "<span class=\"ph\">[Date]</span>"
+  ],
+  [
+   "Next Review Date",
+   "<span class=\"ph\">[Date + 12 months]</span>"
+  ]
+ ],
+ "html": "<h2 id=\"1-purpose\">1. Purpose</h2>\n<p>This policy sets out how Mustard Seed Ltd identifies, manages, and records conflicts of interest arising from its business model as a minority equity holder in multiple portfolio companies.</p>\n<h2 id=\"2-scope\">2. Scope</h2>\n<p>This policy applies to all directors, employees, contractors, and consultants of Mustard Seed. It is particularly relevant given Mustard Seed's embedded consulting model, where personnel have access to confidential information across multiple portfolio companies.</p>\n<h2 id=\"3-what-is-a-conflict-of-interest\">3. What is a Conflict of Interest</h2>\n<p>A conflict of interest arises when a person's personal interests, or the interests of one portfolio company, could improperly influence their judgement, decisions, or actions in relation to another portfolio company or Mustard Seed itself.</p>\n<p>Examples include:</p>\n<ul class=\"bullets\">\n<li>Two portfolio companies competing in the same market</li>\n<li>A Mustard Seed consultant having a personal financial interest in a supplier used by a portfolio company</li>\n<li>Information learned inside one portfolio company being relevant to a business decision at another</li>\n<li>A Mustard Seed director voting on a matter where they have a personal interest</li>\n</ul>\n<h2 id=\"4-duty-to-declare\">4. Duty to Declare</h2>\n<p>All Mustard Seed personnel must declare any actual, potential, or perceived conflict of interest as soon as it arises.</p>\n<p>Declarations must be made in writing to the Managing Director and recorded in the Conflicts of Interest Register.</p>\n<p>If in doubt about whether a situation constitutes a conflict, declare it. It is always better to disclose and have it assessed than to fail to report.</p>\n<h2 id=\"5-management-of-conflicts\">5. Management of Conflicts</h2>\n<p>Once a conflict is declared, the Managing Director will assess it and determine the appropriate management action. Options include:</p>\n<ul class=\"bullets\">\n<li>Information barriers (\"Chinese walls\") between teams or individuals working on competing portfolio companies</li>\n<li>Restricting a conflicted person's involvement in certain decisions or engagements</li>\n<li>Obtaining informed consent from affected portfolio companies</li>\n<li>In severe cases, declining an engagement or exiting a portfolio company relationship</li>\n</ul>\n<h2 id=\"6-information-barriers\">6. Information Barriers</h2>\n<p>Where Mustard Seed works with portfolio companies in similar markets, information barriers shall be implemented to prevent the flow of confidential information between engagements.</p>\n<p>Personnel subject to an information barrier shall not:</p>\n<ul class=\"bullets\">\n<li>Discuss one portfolio company's confidential information with personnel working on another</li>\n<li>Access files, systems, or data relating to the restricted portfolio company</li>\n<li>Participate in meetings or decisions relating to the restricted portfolio company</li>\n</ul>\n<h2 id=\"7-directors-conflicts\">7. Directors' Conflicts</h2>\n<p>Directors of Mustard Seed must comply with their duties under sections 175 and 177 of the Companies Act 2006. A director must declare any interest in a proposed or existing transaction and must not vote on matters where they have a personal conflict, in accordance with the Company's Articles of Association.</p>\n<h2 id=\"8-conflicts-of-interest-register\">8. Conflicts of Interest Register</h2>\n<p>Mustard Seed maintains a Conflicts of Interest Register. All declared conflicts, the management action taken, and the outcome are recorded. The Register is reviewed quarterly by the Managing Director.</p>\n<h2 id=\"9-consequences-of-breach\">9. Consequences of Breach</h2>\n<p>Failure to declare a conflict of interest, or failure to comply with a management action imposed under this policy, may result in disciplinary action, termination of engagement, and potential legal liability.</p>\n<h2 id=\"10-review\">10. Review</h2>\n<p>This policy will be reviewed annually or when Mustard Seed's portfolio materially changes (for example, when a new portfolio company is added in a sector where an existing portfolio company operates).</p>",
+ "toc": [
+  [
+   "1-purpose",
+   "Purpose"
+  ],
+  [
+   "2-scope",
+   "Scope"
+  ],
+  [
+   "3-what-is-a-conflict-of-interest",
+   "What is a Conflict of Interest"
+  ],
+  [
+   "4-duty-to-declare",
+   "Duty to Declare"
+  ],
+  [
+   "5-management-of-conflicts",
+   "Management of Conflicts"
+  ],
+  [
+   "6-information-barriers",
+   "Information Barriers"
+  ],
+  [
+   "7-directors-conflicts",
+   "Directors' Conflicts"
+  ],
+  [
+   "8-conflicts-of-interest-register",
+   "Conflicts of Interest Register"
+  ],
+  [
+   "9-consequences-of-breach",
+   "Consequences of Breach"
+  ],
+  [
+   "10-review",
+   "Review"
+  ]
+ ]
+}

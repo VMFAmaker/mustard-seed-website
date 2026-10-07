@@ -1,0 +1,75 @@
+{
+ "meta": [
+  "Effective from: <span class=\"ph\">[Date]</span>",
+  "Version 1.0"
+ ],
+ "control": [
+  [
+   "Policy Owner",
+   "Managing Director"
+  ],
+  [
+   "Approved By",
+   "<span class=\"ph\">[Founder Name]</span>"
+  ],
+  [
+   "Version",
+   "1.0"
+  ],
+  [
+   "Effective Date",
+   "<span class=\"ph\">[Date]</span>"
+  ],
+  [
+   "Next Review Date",
+   "<span class=\"ph\">[Date + 12 months]</span>"
+  ]
+ ],
+ "html": "<h2 id=\"1-purpose\">1. Purpose</h2>\n<p>This policy sets out Mustard Seed Ltd's position on bribery and corruption and the responsibilities of all personnel to comply with the Bribery Act 2010.</p>\n<h2 id=\"2-scope\">2. Scope</h2>\n<p>This policy applies to all directors, employees, contractors, consultants, and agents of Mustard Seed, and to all dealings with portfolio companies, clients, suppliers, and third parties.</p>\n<h2 id=\"3-policy-statement\">3. Policy Statement</h2>\n<p>Mustard Seed has a zero-tolerance approach to bribery and corruption. We are committed to conducting business ethically and in compliance with all applicable anti-bribery and corruption laws, including the Bribery Act 2010.</p>\n<p>We will not offer, promise, give, request, agree to receive, or accept any bribe, whether in the form of money, gifts, hospitality, or any other advantage, to or from any person, in order to gain any commercial, contractual, or regulatory advantage.</p>\n<h2 id=\"4-what-constitutes-bribery\">4. What Constitutes Bribery</h2>\n<p>Under the Bribery Act 2010, there are four main offences:</p>\n<ul class=\"bullets\">\n<li>Offering, promising, or giving a bribe (Section 1)</li>\n<li>Requesting, agreeing to receive, or accepting a bribe (Section 2)</li>\n<li>Bribing a foreign public official (Section 6)</li>\n<li>Failure by a commercial organisation to prevent bribery (Section 7)</li>\n</ul>\n<h2 id=\"5-gifts-and-hospitality\">5. Gifts and Hospitality</h2>\n<p>Modest gifts and hospitality that are proportionate, reasonable, and given in good faith are acceptable. Examples include a working lunch or a small gift at Christmas.</p>\n<p>The following are NOT acceptable:</p>\n<ul class=\"bullets\">\n<li>Cash or cash equivalents (gift cards, vouchers) to or from any business contact</li>\n<li>Gifts or hospitality intended to influence a business decision</li>\n<li>Gifts or hospitality that are lavish or disproportionate to the business relationship</li>\n<li>Any gift or hospitality during a tender or procurement process</li>\n</ul>\n<p>All gifts and hospitality over GBP 50 must be recorded in the Gifts and Hospitality Register and approved by the Managing Director.</p>\n<h2 id=\"6-facilitation-payments\">6. Facilitation Payments</h2>\n<p>Mustard Seed does not make or accept facilitation payments. Facilitation payments are small payments made to secure or expedite a routine government action. They are illegal under the Bribery Act 2010.</p>\n<h2 id=\"7-due-diligence\">7. Due Diligence</h2>\n<p>Before entering into any business relationship, Mustard Seed will conduct proportionate due diligence to assess the risk of bribery and corruption. This includes reviewing the background of prospective portfolio companies, partners, and suppliers.</p>\n<h2 id=\"8-record-keeping\">8. Record Keeping</h2>\n<p>We shall keep accurate financial records and have appropriate internal controls in place to evidence the business reason for making payments to third parties.</p>\n<h2 id=\"9-reporting-concerns\">9. Reporting Concerns</h2>\n<p>All personnel have a duty to report any suspected or actual bribery or corruption. Reports should be made to the Managing Director.</p>\n<p>Anyone raising a genuine concern in good faith will be protected from retaliation. Mustard Seed will investigate all reports promptly and confidentially.</p>\n<h2 id=\"10-consequences-of-breach\">10. Consequences of Breach</h2>\n<p>Any breach of this policy may result in disciplinary action, termination of engagement, and referral to law enforcement. Bribery is a criminal offence carrying a maximum penalty of 10 years' imprisonment and an unlimited fine.</p>\n<h2 id=\"11-review\">11. Review</h2>\n<p>This policy will be reviewed annually or sooner if required by changes in law or business circumstances.</p>",
+ "toc": [
+  [
+   "1-purpose",
+   "Purpose"
+  ],
+  [
+   "2-scope",
+   "Scope"
+  ],
+  [
+   "3-policy-statement",
+   "Policy Statement"
+  ],
+  [
+   "4-what-constitutes-bribery",
+   "What Constitutes Bribery"
+  ],
+  [
+   "5-gifts-and-hospitality",
+   "Gifts and Hospitality"
+  ],
+  [
+   "6-facilitation-payments",
+   "Facilitation Payments"
+  ],
+  [
+   "7-due-diligence",
+   "Due Diligence"
+  ],
+  [
+   "8-record-keeping",
+   "Record Keeping"
+  ],
+  [
+   "9-reporting-concerns",
+   "Reporting Concerns"
+  ],
+  [
+   "10-consequences-of-breach",
+   "Consequences of Breach"
+  ],
+  [
+   "11-review",
+   "Review"
+  ]
+ ]
+}
