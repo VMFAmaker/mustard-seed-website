@@ -7,24 +7,35 @@ import { caseStudies, pillars } from "@/lib/site";
 
 type Props = { params: Promise<{ slug: string }> };
 
-const published = () => caseStudies.filter((s) => s.status === "published");
-
 export const dynamicParams = false;
 
+// Every slot gets a page (a static export needs at least one); unpublished ones say they're being written.
 export function generateStaticParams() {
-  return published().map((s) => ({ slug: s.slug }));
+  return caseStudies.map((s) => ({ slug: s.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const s = published().find((x) => x.slug === slug);
-  return s ? { title: `${s.codename} · Portfolio`, description: s.summary } : {};
+  const s = caseStudies.find((x) => x.slug === slug);
+  if (!s) return {};
+  return s.status === "published" ? { title: `${s.codename} · Portfolio`, description: s.summary } : { title: `Case study ${s.number} · Portfolio` };
 }
 
 export default async function CaseStudyPage({ params }: Props) {
   const { slug } = await params;
-  const study = published().find((s) => s.slug === slug);
+  const study = caseStudies.find((s) => s.slug === slug);
   if (!study) notFound();
+  if (study.status !== "published") {
+    return (
+      <PageHero eyebrow={`Portfolio · Case study ${study.number}`} title="This case study is being written." intro="Our first stories from the network are on their way. Check back soon." icon="seed">
+        <div className="hero-actions">
+          <Link href="/portfolio" className="btn btn-gold">
+            <Icon name="arrowLeft" /> Back to portfolio
+          </Link>
+        </div>
+      </PageHero>
+    );
+  }
   const used = pillars.filter((p) => study.pillars.includes(p.slug));
 
   return (

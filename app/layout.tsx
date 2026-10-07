@@ -11,7 +11,6 @@ const serif = Cormorant_Garamond({ weight: ["500", "600"], style: ["normal", "it
 export const metadata: Metadata = {
   title: { default: "Mustard Seed | Counselling & Business Incubator", template: "%s | Mustard Seed" },
   description: "Mustard Seed is a faith-driven business incubator. We work inside small businesses and help them grow, with equity rather than debt.",
-  icons: { icon: "/brand/mark.png" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

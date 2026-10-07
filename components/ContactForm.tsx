@@ -4,7 +4,8 @@ import { useState, type FormEvent } from "react";
 import Icon from "@/components/Icon";
 import { pillars, site } from "@/lib/site";
 
-type Status = { kind: "idle" } | { kind: "sending" } | { kind: "sent" } | { kind: "manual"; mailto: string; text: string } | { kind: "error"; message: string };
+// The site is static (GitHub Pages), so the form prepares the message for the visitor's own email app.
+type Status = { kind: "idle" } | { kind: "manual"; mailto: string; text: string };
 
 const stages = ["Just starting out", "0–2 years, some revenue", "2–5 years, ready to scale", "Established, hitting a ceiling"];
 
@@ -15,7 +16,7 @@ export default function ContactForm() {
 
   const toggle = (name: string) => setInterests((cur) => (cur.includes(name) ? cur.filter((x) => x !== name) : [...cur, name]));
 
-  async function onSubmit(e: FormEvent<HTMLFormElement>) {
+  function onSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const form = new FormData(e.currentTarget);
     const data = {
@@ -25,18 +26,7 @@ export default function ContactForm() {
       stage: String(form.get("stage") ?? ""),
       interests,
       message: String(form.get("message") ?? "").trim(),
-      website: String(form.get("website") ?? ""), // honeypot
     };
-    setStatus({ kind: "sending" });
-    try {
-      const res = await fetch("/api/contact", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(data) });
-      if (res.ok) return setStatus({ kind: "sent" });
-      const body = await res.json().catch(() => ({}));
-      if (res.status === 400) return setStatus({ kind: "error", message: body.error ?? "Please check the form and try again." });
-    } catch {
-      /* fall through to the email option */
-    }
-    // No email service connected yet (or offline): let the visitor send it from their own email app.
     const lines = [`Name: ${data.name}`, `Email: ${data.email}`];
     if (data.business) lines.push(`Business: ${data.business}`);
     if (data.stage) lines.push(`Stage: ${data.stage}`);
@@ -44,16 +34,6 @@ export default function ContactForm() {
     const text = [...lines, "", data.message].join("\n");
     const mailto = `mailto:${site.email}?subject=${encodeURIComponent(`Enquiry from ${data.name}${data.business ? ` (${data.business})` : ""}`)}&body=${encodeURIComponent(text)}`;
     setStatus({ kind: "manual", mailto, text });
-  }
-
-  if (status.kind === "sent") {
-    return (
-      <div className="form-done">
-        <Icon name="check" className="icon-lg" />
-        <h3>Thank you, your message has been sent.</h3>
-        <p>We'll be in touch soon to arrange a first conversation.</p>
-      </div>
-    );
   }
 
   if (status.kind === "manual") {
@@ -127,12 +107,8 @@ export default function ContactForm() {
         <span>Tell us about your business</span>
         <textarea name="message" required rows={5} maxLength={4000} placeholder="What you do, where you want to grow, and what's holding you back." />
       </label>
-      <label className="hp" aria-hidden>
-        Leave this empty <input name="website" tabIndex={-1} autoComplete="off" />
-      </label>
-      {status.kind === "error" && <p className="form-error">{status.message}</p>}
-      <button type="submit" className="btn btn-gold btn-lg" disabled={status.kind === "sending"}>
-        {status.kind === "sending" ? "Sending…" : "Send message"} <Icon name="arrow" />
+      <button type="submit" className="btn btn-gold btn-lg">
+        Send message <Icon name="arrow" />
       </button>
     </form>
   );

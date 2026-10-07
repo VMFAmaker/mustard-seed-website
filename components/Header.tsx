@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import mark from "@/public/brand/mark.png";
 import Icon from "@/components/Icon";
 import { nav, pillars } from "@/lib/site";
 
@@ -11,14 +12,15 @@ export default function Header() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const close = () => setOpen(false);
-  const isActive = (href: string) => pathname === href || pathname.startsWith(href + "/");
+  const path = pathname.replace(/\/$/, "") || "/";
+  const isActive = (href: string) => path === href || path.startsWith(href + "/");
 
   return (
     <header className={`site-header${open ? " is-open" : ""}`}>
       <div className="container header-bar">
         <Link href="/" className="brand" onClick={close} aria-label="Mustard Seed home">
           <span className="brand-mark">
-            <Image src="/brand/mark.png" alt="" width={44} height={44} priority />
+            <Image src={mark} alt="" width={44} height={44} priority />
           </span>
           <span className="brand-name">Mustard Seed</span>
         </Link>
