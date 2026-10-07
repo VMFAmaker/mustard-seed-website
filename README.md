@@ -21,12 +21,14 @@ Then open http://localhost:3000.
 
 ## Contact form
 
-Without an email service, the form prepares the visitor's message for them to send from their own email app. To receive enquiries directly, create a free [Resend](https://resend.com) account, verify your domain, and set these environment variables where the site is hosted:
+The site is static (GitHub Pages can't run server code), so the form prepares the visitor's message and opens it in their own email app, with a copy button as a fallback.
 
-- `RESEND_API_KEY`
-- `CONTACT_FROM`, e.g. `Mustard Seed <website@yourdomain.co.uk>`
-- `CONTACT_TO` (optional, defaults to the email in `lib/site.ts`)
+## Publishing
 
-## Put it online
+Live at **https://vmfamaker.github.io/mustard-seed-website/** (GitHub Pages, served from the `gh-pages` branch).
 
-Deploy to [Vercel](https://vercel.com) (free tier): import this folder or run `npx vercel`, then connect your domain.
+```bash
+npm run deploy
+```
+
+This builds the site and publishes it. The live site updates within a minute or two. Commit and push source changes to `main` as usual.
